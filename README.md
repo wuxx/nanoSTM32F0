@@ -9,7 +9,7 @@ nanoSTM32F0是实验室推出的基于STM32F070F6P6的最小系统开发板，�
 - 时钟
     支持外部4-32Mhz晶振，32Khz RTC晶振，内部8Mhz RC晶振以及40Khz RC晶振
 - GPIO
-    51个通用GPIO，所有GPIO均支持外部中断
+    11个通用GPIO，所有GPIO均支持外部中断
 - SPI
     2个SPI接口，速率最高可达18Mbit/s
 - Timer
