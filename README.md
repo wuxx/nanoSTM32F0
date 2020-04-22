@@ -3,7 +3,7 @@ nanoSTM32F0是实验室推出的基于STM32F070F6P6的最小系统开发板，�
 
 ## 产品特点  
 - Cortex-M0内核
-    采用ARM Coretex-M0内核，最高频率可达48Mhz
+    采用ARM Cortex-M0内核，最高频率可达48Mhz
 - 内置Flash/SRAM
     32KB Flash, 6KB SRAM
 - 时钟
